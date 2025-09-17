@@ -1,4 +1,4 @@
-#include "common.hpp"
+#include "common.cpp"
 #include <cstdlib>
 
 class ChatClient {

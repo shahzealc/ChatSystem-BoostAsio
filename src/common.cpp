@@ -11,6 +11,7 @@
 #include <queue>
 #include <atomic>
 
+using boost::asio::ip::tcp;
 
 // Message structure for communication
 struct Message {
